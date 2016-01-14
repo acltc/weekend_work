@@ -2,8 +2,6 @@
 
 These weekend exercises are designed to help you level up in various areas, particularly algorithms and Object Oriented Programming. We *strongly* encourage you to complete these exercises over the weekend. We've tried to keep them brief but powerful. On Sunday, we'll review the solutions to the exercises from that week.
 
-Each folder has a number, and you'll be assinged a particular number each weekend, but feel free to move ahead at any time.
-
 ## Algorithms
 
 These problems are designed to help you practice becoming a fluent programmer. They are short and sweet, much like the types of questions you will be asked in a job interview.
