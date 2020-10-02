@@ -1,4 +1,4 @@
-# Weekend Practice
+# Weekend Practice session
 
 These weekend exercises are designed to help you level up in various areas, particularly algorithms and Object Oriented Programming. We *strongly* encourage you to complete these exercises over the weekend. We've tried to keep them brief but powerful. On Sunday, we'll review the solutions to the exercises from that week.
 
